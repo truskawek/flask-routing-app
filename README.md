@@ -1,2 +1,2 @@
 # flask-routing-app
-Simple flask app to play around with routing in Flask
+Simple app to play around with routing in Flask
